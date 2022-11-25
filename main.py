@@ -12,3 +12,12 @@ Otro tipo de comentario
 # if 12 < 13:
 #     print('Hi, my name is: Antoni')
 
+#algunas funciones basicas
+
+num =  '12'
+
+print(type((num)))
+
+num = int(num)
+
+print(type(num))
