@@ -21,3 +21,10 @@ print(type((num)))
 num = int(num)
 
 print(type(num))
+
+#Bunenas practicas 1
+#Decalracion de variables 
+
+my_str = 'Hello, world'
+
+print(my_str)
