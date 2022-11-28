@@ -13,3 +13,9 @@ first_name = str(input('Primer nombre: '))
 last_name = str(input('Apellido: '))
 
 print('Primer nombre: ', first_name,'Apellido: ', last_name)
+
+#Tipo de datos
+
+adress: str = 'Mi dirección' 
+
+print(adress)
