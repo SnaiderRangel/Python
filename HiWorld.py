@@ -14,17 +14,17 @@ Otro tipo de comentario
 
 #algunas funciones basicas
 
-num =  '12'
+# num =  '12'
 
-print(type((num)))
+# print(type((num)))
 
-num = int(num)
+# num = int(num)
 
-print(type(num))
+# print(type(num))
 
 #Bunenas practicas 1
 #Decalracion de variables 
 
-my_str = 'Hello, world'
+# my_str = 'Hello, world'
+# print(my_str)
 
-print(my_str)
